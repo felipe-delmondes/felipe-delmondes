@@ -48,8 +48,6 @@ I also study languages, being fluent in Portuguese and English while learning Sp
 
 </details>
 
-</details>
-
  <details> <summary>Sistemas Operacionais</summary>
 
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
