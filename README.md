@@ -95,7 +95,7 @@ I also study languages, being fluent in Portuguese and English while learning Sp
 
 <details> <summary>Áudio</summary>
 
-- Audacity 	![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+- ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
 </details>
 
@@ -116,6 +116,6 @@ I also study languages, being fluent in Portuguese and English while learning Sp
 
 | Rede Social   | Link      |    
 | ------- | --------------------- | 
-| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)| br.linkedin.com/in/felipe-delmondes
+| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)| [br.linkedin.com/in/felipe-delmondes](https://br.linkedin.com/in/felipe-delmondes)
 
 [(Back to top)](#Sumário)
