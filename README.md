@@ -29,8 +29,8 @@ I also study languages, being fluent in Portuguese and English while learning Sp
 ## Tecnologias 💻
 
 ### Computação
-- 
-  <details> <summary>Web</summary>
+
+<details> <summary>Web</summary>
 
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
